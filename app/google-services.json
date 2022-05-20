@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1045703103466",
+    "firebase_url": "https://mes-competences-a3476-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mes-competences-a3476",
+    "storage_bucket": "mes-competences-a3476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045703103466:android:d58e023c61973a07cc1893",
+        "android_client_info": {
+          "package_name": "fr.abdel.demo.android.mescompetences"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045703103466-0794cai44p0rj5nbe3bbao59vag7ia9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDGFxjxJjQkcVV7b3C1QS8mlD6GeniIFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045703103466-0794cai44p0rj5nbe3bbao59vag7ia9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
